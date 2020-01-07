@@ -6,7 +6,7 @@
 Custom Nintendo Switch bootloader, firmware patcher, and more.
 
 
-## Current Pacthes for Atmosphere (sigpatches) 
+## Current Patches for Atmosphere (sigpatches) 
 Sig Patches for fusee-primary ONLY https://github.com/Joonie86/hekate/releases/download/5.0.0J/Atmosphere_patches_.for.fusee.primary.only.7z
 ->
 Compatible with OFW 9.0.1
